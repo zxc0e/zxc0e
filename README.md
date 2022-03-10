@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zxc0e
+- 👀 I’m interested in web front-end development
+- 🌱 I’m currently learning css and js
